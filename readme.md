@@ -121,10 +121,9 @@ The **Settings Panel** allows you to:
 You can easily change the theme to suit your preference
 
 # Available themes: aquativo, black, blue, equilux, etc.
-root = ThemedTk(theme="equilux")
 
-Authors & Acknowledgments
-Aarav Makhija - Initial work and code development
-Special thanks to ChatGPT for assistance in generating parts of this README and code.
-Issues & Support
+# Authors & Acknowledgments
+# Aarav Makhija - Initial work and code development
+# Special thanks to ChatGPT for assistance in generating parts of this README and code.
+# Issues & Support
 For any issues, please open an issue on GitHub or contact me at makhijaaarav70@gmail.com
